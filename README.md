@@ -3,10 +3,6 @@
 
 - 🔥 Pleno Developer 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
 
 <br><br>
 ## 👨🏽‍🦲 &nbsp;Contact me
@@ -17,7 +13,6 @@
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
- <i class="devicon-django-plain-wordmark"></i>
 ![pythom](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
