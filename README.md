@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/61012171/172245157-4b728033-9791-49f9-bb22-acd281c09eb1.svg">
 </div>
   
   ##
