@@ -15,10 +15,10 @@
 
 <br><br>
 ## 👨🏽‍🦲 &nbsp;Contact me
- <a href="https://www.linkedin.com/in/jorge-s-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div align="left"> 
   <a href="https://www.linkedin.com/in/jorge-s-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
@@ -29,9 +29,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 <br><br>
-
-
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-ti)](https://github.com/anuraghazra/github-readme-stats)
 <div align="left">
