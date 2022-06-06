@@ -1,20 +1,18 @@
 ![git](https://user-images.githubusercontent.com/61012171/172251090-94e87017-0273-4c3c-8429-fdb98fe43f75.png)
 
 
-<!--
-**jorge-ti/jorge-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+
+- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+- ⚡ Fun fact **Oneye 😜**
+
 
 ## 🛠 &nbsp;Tech Stack
 ![pythom](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
