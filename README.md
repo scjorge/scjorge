@@ -1,17 +1,12 @@
 ![git](https://user-images.githubusercontent.com/61012171/172251090-94e87017-0273-4c3c-8429-fdb98fe43f75.png)
 
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 🔥 Pleno Developer 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
+
 
 <br><br>
 ## 👨🏽‍🦲 &nbsp;Contact me
@@ -22,6 +17,7 @@
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
+ <i class="devicon-django-plain-wordmark"></i>
 ![pythom](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
