@@ -1,5 +1,4 @@
-![133Z_2106 w026 n002 491B p1 491](https://user-images.githubusercontent.com/61012171/172247090-88f488ac-47e4-483c-8418-49c20d8ae646.jpg)
-
+![133Z_2106 w026 n002 491B p1 491](https://user-images.githubusercontent.com/61012171/172249046-6a484e79-2d24-48dc-8dac-c327317d807c.png)
 <!--
 **jorge-ti/jorge-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
