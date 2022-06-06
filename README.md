@@ -14,6 +14,12 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <br><br>
+## 👨🏽‍🦲 &nbsp;Social Links
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/jorge-s-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br><br>
 ## 🛠 &nbsp;Tech Stack
 ![pythom](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
@@ -31,7 +37,4 @@
  
 ##
  
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/jorge-s-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
