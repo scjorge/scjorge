@@ -3,7 +3,6 @@
 
 - 🔥 Pleno Developer 
 
-
 <br><br>
 ## 👨🏽‍🦲 &nbsp;Contact me
 <div align="left"> 
