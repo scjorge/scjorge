@@ -40,14 +40,14 @@ This is the place where I code stuff and break things
 ### 🛠 &nbsp; Languages and Tools :
 
 <div>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" alt="Python Logo" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/django-plain.svg" alt="Django Logo" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/flask-original.svg" alt="Flask Logo" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/fastapi-original.svg" alt="FastAPI Logo" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/linux-original.svg" alt="Linux Logo" width="30" />
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/docker-original.svg" alt="Docker Logo" width="30" />
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/git-original.svg" alt="Git Logo" width="30" />
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/vscode-original.svg" alt="Vscode Logo" width="30" />
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/django-plain.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/flask-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/fastapi-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/linux-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/docker-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/git-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/vscode-original.svg" width="30" />
 
 </div>
 
