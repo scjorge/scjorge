@@ -1,4 +1,4 @@
-![git](https://raw.githubusercontent.com/scjorge/scjorge/main/assets/images/background_git.png)
+![git](https://raw.githubusercontent.com/scjorge/scjorge/main/assets/images/background-cards.jpg)
 
 
 ### Hi there</a>
