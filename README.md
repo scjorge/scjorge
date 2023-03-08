@@ -1,7 +1,9 @@
+### Hi there</a>
+<hr>
+
 ![git](https://raw.githubusercontent.com/scjorge/scjorge/main/assets/images/background-cards.jpg)
 
 
-### Hi there</a>
 
 <img align="right" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/gifs/Developer.gif" width='200'/>
                         
@@ -16,9 +18,9 @@ This is the place where I code stuff and break things
 - 🌱 &nbsp;I’m currently Python, FastAPI, Django, Flask...
 - ⚡ &nbsp;Fun fact: I love Board Gamings, PS4, Hip Hop and Card trick Magic
 
-<br>
+<hr>
 
-### 📞 &nbsp;Contact me
+### Contact me
 <div align="left"> 
   <a href="https://www.linkedin.com/in/jorge-s-costa/">
     <img align="center" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/linked-in-alt.svg" height="20" width="30">
@@ -28,16 +30,16 @@ This is the place where I code stuff and break things
   </a>
 </div>
 
-<br>
+<hr>
 
-### 📕 &nbsp;Latest Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [S.O.L.I.D com ChatGPT](https://dev.to/scjorge/solid-com-chatgpt-25de)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<hr>
 
-### 🛠 &nbsp; Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" width="30"/>
