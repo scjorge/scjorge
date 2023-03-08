@@ -1,4 +1,4 @@
-![git](https://user-images.githubusercontent.com/61012171/172251090-94e87017-0273-4c3c-8429-fdb98fe43f75.png)
+![git](https://raw.githubusercontent.com/scjorge/scjorge/main/assets/images/background_git.png)
 
 
 ### Hi there</a>
