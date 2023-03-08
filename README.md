@@ -20,7 +20,7 @@ This is the place where I code stuff and break things
 
 <br>
 
-## 📕 &nbsp;Blog posts
+## 📕 &nbsp;Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
