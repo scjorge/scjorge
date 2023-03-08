@@ -22,6 +22,7 @@ This is the place where I code stuff and break things
 
 ## 📕 &nbsp;Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [S.O.L.I.D com ChatGPT](https://dev.to/scjorge/solid-com-chatgpt-25de)
 <!-- BLOG-POST-LIST:END -->
 
 
