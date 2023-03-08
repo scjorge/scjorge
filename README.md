@@ -3,8 +3,8 @@
 
 ### Hi there</a>
 
-<img align="right" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/Developer.gif" width='200'/>
- 
+<img align="right" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/gifs/Developer.gif" width='200'/>
+                        
 I am Jorge Silva 🧔
 
 I live in Brazil. I developed myself on the web for over 3 years. I am currently working as a Backend developer. 
@@ -31,17 +31,14 @@ This is the place where I code stuff and break things
 - [S.O.L.I.D com ChatGPT](https://dev.to/scjorge/solid-com-chatgpt-25de)
 <!-- BLOG-POST-LIST:END -->
 
-
 <br>
 
 ## 🛠 &nbsp; Languages and Tools :
-
 
 <div>
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" alt="Python Logo" width="40"/>
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/django-plain.svg" alt="Django Logo" width="40"/>
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/flask-original.svg" alt="Flask Logo" width="40"/>
-  <img src="https://github.com/scjorge/scjorge/blob/main/assets/icons/flask-original.svg" alt="Flask Logo" width="40"/>
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/fastapi-original.svg" alt="FastAPI Logo" width="40"/>
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/linux-original.svg" alt="Linux Logo" width="40" />
   <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/docker-original.svg" alt="Docker Logo" width="40" />
