@@ -34,6 +34,7 @@ This is the place where I code stuff and break things
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gerenciadores de Contexto](https://dev.to/scjorge/gerenciadores-de-contexto-3bc6)
 - [S.O.L.I.D com ChatGPT](https://dev.to/scjorge/solid-com-chatgpt-25de)
 <!-- BLOG-POST-LIST:END -->
 
