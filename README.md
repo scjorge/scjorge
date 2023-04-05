@@ -24,13 +24,13 @@ This is the place where I code stuff and break things
 <div align="left"> 
 
   <a href="https://www.linkedin.com/in/jorge-s-costa/">
-    <img align="center" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/linked-in-alt.svg" height="20" width="30">
+    <img align="center" src="assets/icons/linked-in-alt.svg" target="_blank" height="20" width="30">
   </a>
   <a href="https://dev.to/scjorge">
-    <img align="center" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/images/dev-to.png" height="20" width="30" />
+    <img align="center" src="assets/images/dev-to.png" target="_blank" height="20" width="30" />
   </a>
   <a href="https://pypi.org/user/scjorge/">
-    <img align="center" src="assets/icons/pypi.svg" height="20" width="30" />
+    <img align="center" src="assets/icons/pypi.svg" target="_blank" height="20" width="30" />
   </a>
 </div>
 
@@ -48,14 +48,14 @@ This is the place where I code stuff and break things
 ### Languages and Tools :
 
 <div>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/django-plain.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/flask-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/fastapi-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/linux-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/docker-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/git-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/vscode-original.svg" width="30" />
+  <img src="assets/icons/python-original.svg" target="_blank" width="30"/>
+  <img src="assets/icons/django-plain.svg" target="_blank" width="30"/>
+  <img src="assets/icons/flask-original.svg" target="_blank" width="30"/>
+  <img src="assets/icons/fastapi-original.svg" target="_blank" width="30"/>
+  <img src="assets/icons/linux-original.svg" target="_blank" width="30" />
+  <img src="assets/icons/docker-original.svg" target="_blank" width="30" />
+  <img src="assets/icons/git-original.svg" target="_blank" width="30" />
+  <img src="assets/icons/vscode-original.svg" target="_blank" width="30" />
 
 </div>
 
